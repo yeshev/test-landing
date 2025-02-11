@@ -1,0 +1,21 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "plugin:@typescript-eslint/recommended",
+    "prettier"
+  ],
+  "plugins": ["@typescript-eslint"],
+  "root": true,
+  "rules": {
+    "react/require-default-props": "off",
+    "no-unused-vars": "off",
+    "no-undef": "error",
+    "@typescript-eslint/no-unused-vars": "error",
+    "no-param-reassign": "off",
+    "no-console": "warn",
+    "import/no-anonymous-default-export": "off",
+    "react/display-name": "off",
+    "no-duplicate-imports": "error",
+    "@typescript-eslint/no-explicit-any": "off"
+  }
+}

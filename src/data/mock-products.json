@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "First product",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam architecto at atque debitis doloremque enim eveniet expedita explicabo, fugit harum hic illo ipsum itaque iusto labore magnam maxime modi nam nemo, nihil pariatur possimus quia ratione recusandae reiciendis repellendus repudiandae sapiente sint temporibus totam unde, voluptatibus. Deleniti, dolor.",
+      "type": ["new"]
+    },
+    {
+      "id": 2,
+      "title": "Second product",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam architecto at atque debitis doloremque enim eveniet expedita explicabo, fugit harum hic illo ipsum itaque iusto labore magnam maxime modi nam nemo, nihil pariatur possimus quia ratione recusandae reiciendis repellendus repudiandae sapiente sint temporibus totam unde, voluptatibus. Deleniti, dolor.",
+      "type": ["new", "js"]
+    },
+    {
+      "id": 3,
+      "title": "Third product",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam architecto at atque debitis doloremque enim eveniet expedita explicabo, fugit harum hic illo ipsum itaque iusto labore magnam maxime modi nam nemo, nihil pariatur possimus quia ratione recusandae reiciendis repellendus repudiandae sapiente sint temporibus totam unde, voluptatibus. Deleniti, dolor.",
+      "type": ["ts", "js"]
+    },
+    {
+      "id": 4,
+      "title": "4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam architecto at atque debitis doloremque enim eveniet expedita explicabo, fugit harum hic illo ipsum itaque iusto labore magnam maxime modi nam nemo, nihil pariatur possimus quia ratione recusandae reiciendis repellendus repudiandae sapiente sint temporibus totam unde, voluptatibus. Deleniti, dolor.",
+      "type": ["react"]
+    },
+    {
+      "id": 5,
+      "title": "5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam architecto at atque debitis doloremque enim eveniet expedita explicabo, fugit harum hic illo ipsum itaque iusto labore magnam maxime modi nam nemo, nihil pariatur possimus quia ratione recusandae reiciendis repellendus repudiandae sapiente sint temporibus totam unde, voluptatibus. Deleniti, dolor.",
+      "type": ["next"]
+    },
+    {
+      "id": 6,
+      "title": "6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam architecto at atque debitis doloremque enim eveniet expedita explicabo, fugit harum hic illo ipsum itaque iusto labore magnam maxime modi nam nemo, nihil pariatur possimus quia ratione recusandae reiciendis repellendus repudiandae sapiente sint temporibus totam unde, voluptatibus. Deleniti, dolor.",
+      "type": ["adobe"]
+    },
+    {
+      "id": 7,
+      "title": "7",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam architecto at atque debitis doloremque enim eveniet expedita explicabo, fugit harum hic illo ipsum itaque iusto labore magnam maxime modi nam nemo, nihil pariatur possimus quia ratione recusandae reiciendis repellendus repudiandae sapiente sint temporibus totam unde, voluptatibus. Deleniti, dolor.",
+      "type": ["js"]
+    },
+    {
+      "id": 8,
+      "title": "8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad aliquam architecto at atque debitis doloremque enim eveniet expedita explicabo, fugit harum hic illo ipsum itaque iusto labore magnam maxime modi nam nemo, nihil pariatur possimus quia ratione recusandae reiciendis repellendus repudiandae sapiente sint temporibus totam unde, voluptatibus. Deleniti, dolor.",
+      "type": ["ts"]
+    }
+  ]
+}
